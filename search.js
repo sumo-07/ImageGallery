@@ -25,4 +25,5 @@ search.addEventListener("input", () => {
             image.style.display = "block";  // Show all images when search is empty
         });
     }
+    
 });
