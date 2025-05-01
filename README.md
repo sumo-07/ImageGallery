@@ -29,3 +29,25 @@ PDF Conversion: (e.g., jsPDF, html2pdf – mention if used)
 
 🔒 Authentication
 User login and signup are integrated to ensure data security and personalized gallery interaction.
+
+Project Preview
+![image](https://github.com/user-attachments/assets/6fce19ba-74e6-4c9f-952d-da4f131006a9)
+
+![image](https://github.com/user-attachments/assets/a855ece8-192e-4d61-af4b-8590eeb2004a)
+
+![image](https://github.com/user-attachments/assets/f655917a-d6f8-4ef0-a644-470403d0b5e3)
+
+![image](https://github.com/user-attachments/assets/4ef73f42-86ad-4939-ad15-16988099a8c0)
+
+![image](https://github.com/user-attachments/assets/5023620c-f1c5-4199-bafc-00cfd470b645)
+
+![image](https://github.com/user-attachments/assets/1f28e4d3-1da4-419d-894f-7d0a58fda4db)
+
+![image](https://github.com/user-attachments/assets/edc857d6-d48b-4ff1-be25-2a600bb03071)
+
+
+
+
+
+
+
