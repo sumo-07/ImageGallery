@@ -1,6 +1,7 @@
 const search = document.querySelector(".search input");  // Select the search input field
 const images = document.querySelectorAll(".filter img");  // Select all the image elements
 
+
 // Event listener for keyup event, fires as the user types
 search.addEventListener("keyup", () => {
     let searchValue = search.value.trim();  // Get the input value and remove leading/trailing spaces
